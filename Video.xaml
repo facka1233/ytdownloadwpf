@@ -1,56 +1,3 @@
-<<<<<<< HEAD
-﻿<Window x:Class="kelompok_1.Video"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:kelompok_1"
-        mc:Ignorable="d"
-        Title="Video" Height="450" Width="800">
-    <Grid>
-        <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition/>
-            </Grid.RowDefinitions>
-
-            <Border Grid.RowSpan="2">
-                <Border.Background>
-                    <LinearGradientBrush>
-                        <GradientStop Color="#CD0430" Offset="0.0"/>
-                        <GradientStop Color="#9E0120" Offset="1"/>
-                    </LinearGradientBrush>
-                </Border.Background>
-
-
-
-
-            </Border>
-        </Grid>
-        <MediaElement x:Name="media" 
-                      Margin="77,22,77,107"/>
-        <Button x:Name="Playbtn" 
-                Content="Play" 
-                HorizontalAlignment="Left" 
-                Margin="88,353,0,0" 
-                VerticalAlignment="Top" 
-                Click="Playbtn_Click" 
-                Height="30" Width="40"/>
-        <Button x:Name="Pausebtn" 
-            Content="Pause" 
-            HorizontalAlignment="Left" 
-            Margin="133,353,0,0" 
-            VerticalAlignment="Top" 
-            Click="Pausebtn_Click" 
-            Height="30" Width="40"/>
-        <Slider x:Name="realtime" 
-                Margin="178,360,111,67" 
-                ValueChanged="realtime_ValueChanged"/>
-
-
-    </Grid>
-</Window>
-=======
 ﻿<Window x:Class="kelompok_1.Video"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -84,14 +31,11 @@
         <Button x:Name="Playbtn" 
                 Content="" 
                 HorizontalAlignment="Left" 
-                Margin="98,353,0,0" 
+                Margin="90,353,0,0" 
                 VerticalAlignment="Top" 
                 Click="Playbtn_Click" 
                 Height="30" Width="30"
                 BorderBrush="Transparent">
-            <Button.Foreground>
-                <ImageBrush/>
-            </Button.Foreground>
             <Button.Background>
                 <ImageBrush ImageSource="/play-button.png"/>
             </Button.Background>
@@ -102,17 +46,16 @@
             Margin="133,353,0,0" 
             VerticalAlignment="Top" 
             Click="Pausebtn_Click" 
-            Height="30" Width="30" BorderBrush="Transparent">
+            Height="30" Width="30"
+                BorderBrush="Transparent">
             <Button.Background>
                 <ImageBrush ImageSource="/pause.png"/>
             </Button.Background>
         </Button>
         <Slider x:Name="realtime" 
                 Margin="178,360,111,57" 
-                ValueChanged="realtime_ValueChanged">
-        </Slider>
+                ValueChanged="realtime_ValueChanged"/>
 
 
     </Grid>
 </Window>
->>>>>>> 77791fd (Perubahan icon di player)
