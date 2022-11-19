@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Copyright (c) Microncode.com
 
 The CSVideoPlayer is available for FREE for learning or for FREE purposes, 
@@ -8,4 +9,16 @@ See https://opensource.org/licenses/ms-pl.html.
 
 THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
 EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
+=======
+﻿Copyright (c) Microncode.com
+
+The CSVideoPlayer is available for FREE for learning or for FREE purposes, 
+for commercial or any other use please order a license.
+
+This source is subject to the Microsoft Public License. 
+See https://opensource.org/licenses/ms-pl.html.
+
+THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, 
+EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
+>>>>>>> 77791fd (Perubahan icon di player)
 WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. 
