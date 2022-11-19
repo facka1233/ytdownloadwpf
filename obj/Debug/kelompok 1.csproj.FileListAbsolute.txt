@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.exe.config
 D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.exe
 D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.pdb
@@ -121,3 +122,128 @@ C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.CopyComplete
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.exe
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.pdb
+=======
+D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.exe.config
+D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.exe
+D:\UTS semester 3\kelompok 1\bin\Debug\kelompok 1.pdb
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.csproj.AssemblyReference.cache
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.csproj.SuggestedBindingRedirects.cache
+D:\UTS semester 3\kelompok 1\obj\Debug\MainWindow.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\App.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.cache
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.lref
+D:\UTS semester 3\kelompok 1\obj\Debug\MainWindow.baml
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.g.resources
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok_1.Properties.Resources.resources
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.csproj.GenerateResource.cache
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.csproj.CoreCompileInputs.cache
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.exe
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.pdb
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x64\Readme.txt
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avcodec-58.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avdevice-58.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avfilter-7.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avformat-58.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avutil-56.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffmpeg.exe
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffplay.exe
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffprobe.exe
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swresample-3.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swscale-5.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSVideoPlayer.Credits.txt
+D:\UTS semester 3\kelompok 1\bin\Debug\CSVideoPlayer.License.txt
+D:\UTS semester 3\kelompok 1\bin\Debug\CSVideoPlayer.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\FFmpeg.AutoGen.dll
+D:\UTS semester 3\kelompok 1\bin\Debug\CSVideoPlayer.pdb
+D:\UTS semester 3\kelompok 1\bin\Debug\FFmpeg.AutoGen.pdb
+D:\UTS semester 3\kelompok 1\bin\Debug\FFmpeg.AutoGen.xml
+D:\UTS semester 3\kelompok 1\obj\Debug\kelompok 1.csproj.CopyComplete
+D:\UTS semester 3\kelompok 1\obj\Debug\Audio.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\Progress.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\Video.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\Audio.baml
+D:\UTS semester 3\kelompok 1\obj\Debug\Progress.baml
+D:\UTS semester 3\kelompok 1\obj\Debug\Video.baml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x64\Readme.txt
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avcodec-58.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avdevice-58.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avfilter-7.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avformat-58.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avutil-56.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffmpeg.exe
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffplay.exe
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffprobe.exe
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swresample-3.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swscale-5.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSVideoPlayer.Credits.txt
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSVideoPlayer.License.txt
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\kelompok 1.exe.config
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\kelompok 1.exe
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\kelompok 1.pdb
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSVideoPlayer.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\CSVideoPlayer.pdb
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\FFmpeg.AutoGen.pdb
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.csproj.AssemblyReference.cache
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Audio.g.cs
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\MainWindow.g.cs
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Progress.g.cs
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Video.g.cs
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\App.g.cs
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.cache
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.lref
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Audio.baml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\MainWindow.baml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Progress.baml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\Video.baml
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.g.resources
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok_1.Properties.Resources.resources
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.csproj.GenerateResource.cache
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.csproj.CoreCompileInputs.cache
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.csproj.CopyComplete
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.exe
+C:\Users\ahawa\Downloads\kelompok 1-20221118T054155Z-001\kelompok 1\obj\Debug\kelompok 1.pdb
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x64\Readme.txt
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avcodec-58.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avdevice-58.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avfilter-7.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avformat-58.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\avutil-56.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffmpeg.exe
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffplay.exe
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\ffprobe.exe
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swresample-3.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSPlugins\FFmpeg\x86\swscale-5.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSVideoPlayer.Credits.txt
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSVideoPlayer.License.txt
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\kelompok 1.exe.config
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\kelompok 1.exe
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\kelompok 1.pdb
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSVideoPlayer.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\CSVideoPlayer.pdb
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\FFmpeg.AutoGen.pdb
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.AssemblyReference.cache
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Audio.g.cs
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\MainWindow.g.cs
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Progress.g.cs
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Video.g.cs
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\App.g.cs
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.cache
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1_MarkupCompile.lref
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Audio.baml
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\MainWindow.baml
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Progress.baml
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\Video.baml
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.g.resources
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok_1.Properties.Resources.resources
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.GenerateResource.cache
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.CoreCompileInputs.cache
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.CopyComplete
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.exe
+C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.pdb
+>>>>>>> 77791fd (Perubahan icon di player)

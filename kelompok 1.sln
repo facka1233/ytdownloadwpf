@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {2EBA1442-1B5B-42AD-9C48-0B7518E093DC}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kelompok 1", "kelompok 1.csproj", "{B692A6A3-10DB-4D60-872E-474DE7156B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B692A6A3-10DB-4D60-872E-474DE7156B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B692A6A3-10DB-4D60-872E-474DE7156B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B692A6A3-10DB-4D60-872E-474DE7156B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B692A6A3-10DB-4D60-872E-474DE7156B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBA1442-1B5B-42AD-9C48-0B7518E093DC}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 77791fd (Perubahan icon di player)

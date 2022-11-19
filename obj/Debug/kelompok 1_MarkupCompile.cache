@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿kelompok 1
 
 
@@ -18,3 +19,25 @@ Audio.xaml;MainWindow.xaml;Progress.xaml;Video.xaml;
 
 True
 
+=======
+﻿kelompok 1
+
+
+winexe
+C#
+.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\
+kelompok_1
+none
+false
+DEBUG;TRACE
+D:\UTS semester 3\kelompok 1\App.xaml
+4-682623265
+
+9771723181
+17912039867
+Audio.xaml;MainWindow.xaml;Progress.xaml;Video.xaml;
+
+True
+
+>>>>>>> 77791fd (Perubahan icon di player)
