@@ -68,6 +68,9 @@
     <Compile Include="Audio.xaml.cs">
       <DependentUpon>Audio.xaml</DependentUpon>
     </Compile>
+    <Compile Include="credits.xaml.cs">
+      <DependentUpon>credits.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Progress.xaml.cs">
       <DependentUpon>Progress.xaml</DependentUpon>
     </Compile>
@@ -75,6 +78,10 @@
       <DependentUpon>Video.xaml</DependentUpon>
     </Compile>
     <Page Include="Audio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="credits.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -134,6 +141,14 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo\csharp 1.png" />
+    <Resource Include="logo\wpf 1.png" />
+    <Resource Include="logo\yt-dlp.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\CSVideoPlayer.1.0.3\build\CSVideoPlayer.targets" Condition="Exists('packages\CSVideoPlayer.1.0.3\build\CSVideoPlayer.targets')" />

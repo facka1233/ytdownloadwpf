@@ -121,3 +121,5 @@ C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.csproj.CopyComplete
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.exe
 C:\Users\ahawa\OneDrive\Documents\Project\kelompok 1\obj\Debug\kelompok 1.pdb
+D:\UTS semester 3\kelompok 1\obj\Debug\credits.g.cs
+D:\UTS semester 3\kelompok 1\obj\Debug\credits.baml

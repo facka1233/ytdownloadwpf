@@ -1,0 +1,78 @@
+﻿<Window x:Class="kelompok_1.credits"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kelompok_1"
+        mc:Ignorable="d"
+       Title="Video" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.RowSpan="2">
+                    <Border.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#CD0430" Offset="0.0"/>
+                            <GradientStop Color="#9E0120" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+
+
+
+                </Border>
+            </Grid>
+            <Image HorizontalAlignment="Left" 
+               Height="101" 
+               VerticalAlignment="Top" 
+               Width="126" 
+               Source="Logo/arrow.png" Margin="0,10,0,0"/>
+
+            <TextBlock x:Name="Youtube" 
+                   HorizontalAlignment="Left" 
+                   Margin="96,36,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Youtube Downloader" 
+                   VerticalAlignment="Top" 
+                   FontSize="24" 
+                   FontFamily="Arial Rounded MT Bold" 
+                   Foreground="White"
+                   />
+            <TextBlock x:Name="Youtube_Copy" 
+                HorizontalAlignment="Left" 
+                Margin="96,80,0,4" 
+                TextWrapping="Wrap" 
+                Text="Apps that can help you download youtube video easily.
+                        Powered by :" 
+                FontSize="24" 
+                FontFamily="Arial Rounded MT Bold" 
+                Foreground="White" Height="101" VerticalAlignment="Top" LineHeight="48"/>
+            <Image HorizontalAlignment="Center" 
+               Height="70" 
+               VerticalAlignment="Top" 
+               Width="60" 
+               Source="Logo/csharp 1.png" 
+                   Margin="0,124,0,0"/>
+            <Image HorizontalAlignment="Left" 
+               Height="48" 
+               VerticalAlignment="Top" 
+               Width="200" 
+               Source="Logo/yt-dlp.png" 
+                   Margin="207,130,0,0"/>
+            <Image HorizontalAlignment="Left" 
+               Height="45" 
+               VerticalAlignment="Top" 
+               Width="70" 
+               Source="Logo/wpf 1.png" 
+               Margin="459,130,0,0"/>
+
+
+        </Grid>
+    </Grid>
+</Window>
