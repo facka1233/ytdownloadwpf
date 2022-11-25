@@ -23,21 +23,6 @@ namespace kelompok_1
         {
             InitializeComponent();
         }
-
-        private void Playbtn_Click(object sender, RoutedEventArgs e)
-        {
-            media.Play();
-        }
-
-        private void Pausebtn_Click(object sender, RoutedEventArgs e)
-        {
-            media.Pause();
-        }
-
-        private void realtime_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
-        {
-            media.Position = TimeSpan.FromSeconds(realtime.Value);
-        }
     }
 }
 

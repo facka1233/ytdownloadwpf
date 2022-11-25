@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:kelompok_1"
         mc:Ignorable="d"
-        Title="Audio" Height="450" Width="800">
+        Title="Audio" Height="450" Width="800"
+        ResizeMode="NoResize">
     <Grid>
         <Grid>
             <Grid.RowDefinitions>
@@ -28,33 +29,6 @@
         </Grid>
         <MediaElement x:Name="media" 
                       Margin="77,194,77,194"/>
-        <Button x:Name="Playbtn" 
-                Content="" 
-                HorizontalAlignment="Left" 
-                Margin="101,242,0,0" 
-                VerticalAlignment="Top" 
-                Click="Playbtn_Click" 
-                Height="30" Width="30"
-                BorderBrush="Transparent">
-            <Button.Background>
-                <ImageBrush ImageSource="/play-button.png"/>
-            </Button.Background>
-        </Button>
-        <Button x:Name="Pausebtn" 
-            Content="" 
-            HorizontalAlignment="Left" 
-            Margin="146,242,0,0" 
-            VerticalAlignment="Top" 
-            Click="Pausebtn_Click" 
-            Height="30" Width="30"
-                BorderBrush="Transparent">
-            <Button.Background>
-                <ImageBrush ImageSource="/pause.png"/>
-            </Button.Background>
-        </Button>
-        <Slider x:Name="realtime" 
-                Margin="181,249,108,169" 
-                ValueChanged="realtime_ValueChanged"/>
 
 
     </Grid>
