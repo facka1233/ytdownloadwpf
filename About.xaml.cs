@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace kelompok_1
 {
     /// <summary>
-    /// Interaction logic for Window1.xaml
+    /// Interaction logic for About.xaml
     /// </summary>
     public partial class About : Window
     {
@@ -24,11 +24,9 @@ namespace kelompok_1
             InitializeComponent();
         }
 
-        private void backButton_Click(object sender, RoutedEventArgs e)
+        private void btnback_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mainWindow = new MainWindow();
-            mainWindow.Show();
-            this.Hide();
+
         }
     }
 }

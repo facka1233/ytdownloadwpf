@@ -65,11 +65,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="About.xaml.cs">
+      <DependentUpon>About.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Audio.xaml.cs">
       <DependentUpon>Audio.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="credits.xaml.cs">
-      <DependentUpon>credits.xaml</DependentUpon>
     </Compile>
     <Compile Include="Progress.xaml.cs">
       <DependentUpon>Progress.xaml</DependentUpon>
@@ -77,11 +77,11 @@
     <Compile Include="Video.xaml.cs">
       <DependentUpon>Video.xaml</DependentUpon>
     </Compile>
-    <Page Include="Audio.xaml">
+    <Page Include="About.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="credits.xaml">
+    <Page Include="Audio.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -143,7 +143,7 @@
     <Resource Include="pause.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="logo\arrow.png" />
+    <Resource Include="arrow.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="logo\csharp 1.png" />

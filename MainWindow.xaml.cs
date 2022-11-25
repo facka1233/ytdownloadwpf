@@ -39,5 +39,12 @@ namespace kelompok_1
             progress.Show();
             this.Hide();
         }
+
+        private void aboutButton_Click(object sender, RoutedEventArgs e)
+        {
+            About about = new About();
+            about.Show();
+            this.Hide();
+        }
     }
 }

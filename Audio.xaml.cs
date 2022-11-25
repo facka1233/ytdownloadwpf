@@ -23,13 +23,5 @@ namespace kelompok_1
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
-=======
-
-        private void playwith_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
->>>>>>> f09c519 (update arrow dan cerdits)
     }
 }
