@@ -23,6 +23,11 @@ namespace kelompok_1
         {
             InitializeComponent();
         }
+
+        private void btnplaywith_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
 
