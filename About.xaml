@@ -8,6 +8,7 @@
         Title="About" Height="450" Width="800"
           ResizeMode="NoResize" Background="#CD0430">
     <Grid>
+<<<<<<< HEAD
         <TextBlock HorizontalAlignment="Left"
                    Margin="96,22,0,357" 
                    TextWrapping="Wrap"
@@ -58,5 +59,16 @@
                Margin="504,132,0,0"/>
 
 
+=======
+        <Button  x:Name="backButton" BorderThickness="0"
+                 Background="Transparent" Foreground="White" 
+                 VerticalAlignment="Top" Width="53" Height="32" Click="backButton_Click">
+            <StackPanel Orientation="Horizontal"/>
+        </Button>
+        <Image Source="logo/youtube.png" Margin="-19,-7,707,373"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,8,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" Text="Youtube Downloader" VerticalAlignment="Top" Height="53" Width="304"/>
+        <TextBlock HorizontalAlignment="Left" Margin="77,52,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" FontFamily="Arial" Text="Apps that can help you download Youtube Video easily" VerticalAlignment="Top"/>
+        <Border BorderBrush="Black" BorderThickness="0"/>
+>>>>>>> f7a5394df941df3811bb02088a5477726a921e6c
     </Grid>
 </Window>

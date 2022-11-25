@@ -8,6 +8,7 @@
         Title="Video" Height="450" Width="800"
         ResizeMode="NoResize" Background="#CD0430">
     <Window.Resources>
+<<<<<<< HEAD
         <Style x:Key="FocusVisual">
             <Setter Property="Control.Template">
                 <Setter.Value>
@@ -19,6 +20,8 @@
         </Style>
         <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
         <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+=======
+>>>>>>> f7a5394df941df3811bb02088a5477726a921e6c
         <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
         <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
         <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
@@ -26,6 +29,7 @@
         <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
         <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
         <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+<<<<<<< HEAD
         <Style x:Key="Rounded" TargetType="{x:Type Button}">
             <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
             <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
@@ -217,12 +221,38 @@
                 </Setter.Value>
             </Setter>
         </Style>
+=======
+        <ControlTemplate x:Key="Round" TargetType="{x:Type ButtonBase}">
+            <Border x:Name="border" CornerRadius="10" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="Button.IsDefaulted" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                    <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+>>>>>>> f7a5394df941df3811bb02088a5477726a921e6c
     </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="43*"/>
             <RowDefinition Height="174*"/>
         </Grid.RowDefinitions>
+<<<<<<< HEAD
         <TextBlock HorizontalAlignment="Center" Margin="0,32,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" FontFamily="Arial" Text="Download is Finished!" Width="304"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,86,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" FontFamily="Arial" Text="Enjoy your Video!" VerticalAlignment="Top" Height="34" Width="248" Grid.RowSpan="2"/>
         <Button Style="{DynamicResource Rounded}"
@@ -250,5 +280,10 @@
         </Button>
 
 
+=======
+        <TextBlock HorizontalAlignment="Left" Margin="222,32,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" FontFamily="Arial" Text="Download is Finished!" Width="304"/>
+        <TextBlock HorizontalAlignment="Left" Margin="250,80,0,0" TextWrapping="Wrap" Foreground="White" FontSize="30" FontFamily="Arial" Text="Enjoy your Video!" VerticalAlignment="Top" Height="34" Width="248" Grid.RowSpan="2"/>
+        <Button Template="{DynamicResource Round}" Style="{DynamicResource Round}" Content="Open With" HorizontalAlignment="Left" Margin="324,190,0,0" Grid.Row="1" VerticalAlignment="Top" Height="40" Width="100"/>
+>>>>>>> f7a5394df941df3811bb02088a5477726a921e6c
     </Grid>
 </Window>
